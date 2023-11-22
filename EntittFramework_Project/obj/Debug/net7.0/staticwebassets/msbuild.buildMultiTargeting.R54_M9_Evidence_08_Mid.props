@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\R54_M9_Evidence_08_Mid.props" />
+</Project>
